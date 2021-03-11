@@ -13,3 +13,8 @@ end
 def move(board, index, value = "X")
   board[index] = value
 end
+
+
+def position_taken?(index)
+  if index 
+end
