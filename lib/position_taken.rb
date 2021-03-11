@@ -16,5 +16,5 @@ end
 
 
 def position_taken?(index)
-  if index 
+  if index == " "
 end
